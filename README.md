@@ -5,6 +5,8 @@
 - 📫 How to reach me by email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💞️ Student of Bs Computer Science
+- ⚡ 5th Semester
 
 <!---
 kfmdeveloper/kfmdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
